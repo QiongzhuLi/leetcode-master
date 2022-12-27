@@ -170,9 +170,9 @@
 3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md) <span><b>&#10003;<b></span>
 4. [字符串：翻转字符串里的单词](./problems/0151.翻转字符串里的单词.md) <span><b>&#10003;<b></span>
 5. [字符串：左旋转字符串](./problems/剑指Offer58-II.左旋转字符串.md) <span><b>&#10003;<b></span>
-6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
-8. [字符串：重复的子字符串](./problems/0459.重复的子字符串.md)
-9. [字符串：总结篇！](./problems/字符串总结.md)
+6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md) <span><b>&#10003;<b></span>
+8. [字符串：重复的子字符串](./problems/0459.重复的子字符串.md) 
+9. [字符串：总结篇！](./problems/字符串总结.md) <span><b>&#10003;<b></span>
 
 ## 双指针法 
 
